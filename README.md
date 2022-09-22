@@ -15,3 +15,4 @@
 * 模型运行
 
     python manage.py [cf/lfm/prank]
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/65934546/191633721-63bc95c9-36c4-454a-8e39-2f524147ecfe.png">
